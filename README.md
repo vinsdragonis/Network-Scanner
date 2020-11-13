@@ -11,6 +11,6 @@
 
 *This is supported only on UNIX environment*
 
-*To scan for all devices connected to the same wireless network, you will need a **wireless adapter***
+*To scan for all devices connected to the same **wireless network**, you will need a **wireless adapter***
 
 **Completed**
