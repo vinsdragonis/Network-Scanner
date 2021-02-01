@@ -1,6 +1,6 @@
 # Network-Scanner
 
-**To run:**
+**To use this:**
 
     1. Clone this repository.
     2. Run netowrk_scanner.py
@@ -12,6 +12,6 @@
 
 *This is supported only on UNIX environment*
 
-*To scan for all devices connected to the same **wireless network**, you will need a **wireless adapter***
+*To scan for all devices connected to the same **wireless network**, it is recommended to use a **wireless adapter***
 
 - [x] Completed
