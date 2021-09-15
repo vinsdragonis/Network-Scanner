@@ -8,7 +8,7 @@
 
 **Dependencies:**
 
-    Scapy module
+    pip install scapy
 
 *This is supported only on UNIX environment*
 
