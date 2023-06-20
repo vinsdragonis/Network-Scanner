@@ -10,8 +10,8 @@
 
     pip install scapy
 
-*This is supported only on UNIX environment*
+*This is supported only in the UNIX environment*
 
-*To scan for all devices connected to the same **wireless network**, it is recommended to use a **wireless adapter***
+While working with a NAT network using VirtualBox / VMWare, it is recommended to use a ***wireless adapter*** to scan all devices within the same **wireless network**
 
 - [x] Completed
